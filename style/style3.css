@@ -4,7 +4,7 @@ html {
 
 body {
   font-family: 'Open Sans', sans-serif;
-  width: 390px;
+  width: 100%vw;
   margin: auto;
   color: #e1dad1;
   box-sizing: border-box;
