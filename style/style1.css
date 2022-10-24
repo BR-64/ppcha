@@ -1,0 +1,84 @@
+html {
+  background-color: grey;
+}
+
+body {
+  width: 390px;
+  margin: auto;
+  color: white;
+  box-sizing: border-box;
+}
+
+h1 {
+  margin: 0;
+}
+
+้header,
+main {
+  display: block;
+  background: #32322f;
+  justify-content: center;
+}
+
+footer {
+  height: 247px;
+  background: #32322f;
+  box-sizing: border-box;
+  border: 1px solid yellow;
+  margin: auto;
+}
+
+.container {
+  justify-content: center;
+  box-sizing: border-box;
+  color: white;
+  background: #32322f;
+  height: 70px;
+  border: 1px solid yellow;
+}
+
+.banner {
+  height: 153px;
+  box-sizing: border-box;
+  border: 1px solid yellow;
+}
+
+.premcoll {
+  width: 370px;
+  height: 535px;
+  box-sizing: border-box;
+  border: 1px solid yellow;
+  margin: auto;
+}
+
+.mainHL {
+  width: 370px;
+  height: 300px;
+  box-sizing: border-box;
+  border: 1px solid yellow;
+  margin: auto;
+}
+
+.newproducts {
+  width: 370px;
+  height: 204px;
+  box-sizing: border-box;
+  border: 1px solid yellow;
+  margin: auto;
+}
+
+.shopcoll {
+  width: 370px;
+  height: 362px;
+  box-sizing: border-box;
+  border: 1px solid yellow;
+  margin: auto;
+}
+
+.shopcat {
+  width: 390px;
+  height: 274px;
+  box-sizing: border-box;
+  border: 1px solid yellow;
+  margin: auto;
+}

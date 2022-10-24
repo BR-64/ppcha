@@ -1,0 +1,32 @@
+html {
+  background-color: grey;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  width: 390px;
+  margin: auto;
+  color: white;
+  box-sizing: border-box;
+}
+
+.container {
+  justify-content: center;
+  box-sizing: border-box;
+  color: white;
+  background: #32322f;
+  height: 70px;
+  /* border: 1px solid yellow; */
+}
+
+h1 {
+  margin: 0;
+}
+
+้h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Nunito', sans-serif;
+}
